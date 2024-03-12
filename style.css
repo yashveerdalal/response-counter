@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    
+    background-image: url(clock.jpg);
+}
+#countlabel{
+margin-top: 10%;
+ display: block;
+ text-align: center;
+ font-size: 10em;
+ font-family: Arial, Helvetica, sans-serif;
+ color: aliceblue;
+}
+#btncontainer{
+   text-align: center;
+}
